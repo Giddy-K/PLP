@@ -46,4 +46,4 @@ The output should be:
 
 ## 💡 Author
 
-Created by @Giddy-K
+Created by [Giddy-K]
