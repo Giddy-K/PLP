@@ -37,3 +37,13 @@ The output should be:
     ```
 
 4. **Follow the prompts to enter your numbers and operation.**
+
+## 🧠 Notes
+
+- Handles division by zero.
+- Only basic operations are supported.
+- You can extend it to support more operations or input validation if desired.
+
+## 💡 Author
+
+Created by [@Giddy-K]
